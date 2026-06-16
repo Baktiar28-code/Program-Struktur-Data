@@ -1,0 +1,15 @@
+ID,Tanggal,Kategori,Keterangan,Jenis,Jumlah (Rp)
+11,12-08-2026,Iuran Warga,iuran untuk kegiatan kerja bakti,Pemasukan,300000
+3,05-06-2025,Operasional/ATK,Pembelian alat tulis kantor,Pengeluaran,350000
+8,25-06-2025,Infrastruktur,Pengecatan balai desa,Pengeluaran,450000
+12,13-08-2026,Infrastruktur,pembelian alat dan bahan untuk memperbaiki jalan raya,Pengeluaran,500000
+5,12-06-2025,Infrastruktur,Perbaikan jalan gang RT 01,Pengeluaran,800000
+4,10-06-2025,Iuran Warga,Iuran bulanan warga RT 02,Pemasukan,1200000
+1,01-06-2025,Iuran Warga,Iuran bulanan warga RT 01,Pemasukan,1500000
+2,02-06-2025,Bantuan Sosial,Bantuan dana dari kelurahan,Pemasukan,2000000
+9,22-09-2026,Lain-lain,sumbagan dana pemerintah,Pemasukan,2000000
+10,12-08-2026,Lain-lain,sumbangan ke warga kurang mampu,Pengeluaran,3000000
+
+Total Pemasukan,,,,,7000000
+Total Pengeluaran,,,,,5100000
+Saldo Akhir Kas,,,,,1900000
