@@ -147,4 +147,4 @@ Saldo Akhir Kas,,,,,1900000
 
 ---
 
-Project ini dibuat untuk keperluan tugas mata kuliah **Struktur Data**.
+Project ini dibuat untuk keperluan tugas akhir praktikum mata kuliah **Struktur Data**.
